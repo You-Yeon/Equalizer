@@ -7,6 +7,10 @@ Equalizer
 개인프로젝트 리듬게임인 'SHAKER'을 개발할 때, 
 노트를 생성하기 위해 학습하며 개발했던 이퀄라이저 어플입니다.
 
+:computer: Developerment skill
+------------
+- 언어 : Java
+- IDE : AndroidStudio  
 
 :headphones: Description
 -----------
