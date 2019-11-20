@@ -13,4 +13,6 @@ Equalizer
 총5개의 밴드 오디오 이퀄라이저 (60Hz, 230Hz, 910Hz, 4kHz, 14kHz)를 개발했습니다.
 Seekbar를 통해서 조절이 가능합니다.
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=jRKhWOrSM2s&feature=youtu.be)
+[![Video Label](https://user-images.githubusercontent.com/44610250/69215249-83b24400-0bac-11ea-91ba-37c4938e8a2c.PNG)](https://www.youtube.com/watch?v=jRKhWOrSM2s&feature=youtu.be)
+
+</hr>
