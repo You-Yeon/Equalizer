@@ -15,6 +15,6 @@ Seekbar를 통해서 조절이 가능합니다.
 
 *( 이미지를 클릭하면 유튜브로 넘어갑니다. )*
 
-[![Video Label](https://user-images.githubusercontent.com/44610250/69215249-83b24400-0bac-11ea-91ba-37c4938e8a2c.PNG)](https://www.youtube.com/watch?v=jRKhWOrSM2s&feature=youtu.be)
+[![Equlizer](https://user-images.githubusercontent.com/44610250/69215249-83b24400-0bac-11ea-91ba-37c4938e8a2c.PNG)](https://www.youtube.com/watch?v=jRKhWOrSM2s&feature=youtu.be)
 
 </hr>
